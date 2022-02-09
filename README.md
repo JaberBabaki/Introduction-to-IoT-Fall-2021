@@ -1,4 +1,4 @@
-# -Introduction-to-IoT-Fall-2021
+# Introduction-to-IoT-Fall-2021
 This repository contains material about LoRaWAN and assignment of Introduction to the Internet of Things (IOT) Specialization taught by the professor Mehdi Rasti [Official page](https://aut.ac.ir/cv/2423/Mehdi-Rasti?slc_lang=en&&cv=2423&mod=scv) and Jaber Babaki offered by the University of AmirKabir, Iran.
 
 # CoDesign Material and TA team
