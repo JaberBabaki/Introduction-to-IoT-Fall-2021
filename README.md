@@ -6,7 +6,7 @@ This repository contains material about LoRaWAN and assignment of Introduction t
 * Arefeh Kompanii
 * M.hossin Badiee
 * Tara Saba
-* Saman Hosseini(https://github.com/saman2000hoseini/Computer-Networks-Fall-99-00)
+* [Saman Hosseini](https://github.com/saman2000hoseini/Computer-Networks-Fall-99-00)
 * [Mohamad Chamanmotlagh](https://github.com/MohamadCM)
 * Hamid Reza Hemati
 * Fatemeh Sahraei
